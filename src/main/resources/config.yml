@@ -1,0 +1,11 @@
+menu-title: "&8PvP Kit Supply"
+allowed-slots: [1, 2, 3, 4]
+
+messages:
+  only-players: "&cOnly players can use this command."
+  no-permission: "&cYou do not have permission to use this."
+  invalid-slot: "&cChoose a valid slot: &e1, 2, 3, 4&c."
+  kit-saved: "&aSaved your inventory & armor to kit &e#%slot%&a!"
+  kit-not-found: "&cKit &e#%slot% &cis empty. Use &e/kit create %slot% &cfirst."
+  kit-claimed: "&aEquipped kit &e#%slot%&a!"
+  reloaded: "&aConfiguration and saved kits reloaded."

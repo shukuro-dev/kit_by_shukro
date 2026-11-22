@@ -1,0 +1,9 @@
+name: kit_by_shukro
+version: 1.0
+main: shkr.kit_by_shukro.Kit_by_shukro
+api-version: "1.21"
+commands:
+  kit:
+    description: Manage and claim custom kits
+    usage: /kit <1-4|create <1-4>|reload>
+    aliases: [kits]
